@@ -363,18 +363,18 @@ Also consider adding sensitive files such as `.env` and `venv/` to `.gitignore`.
 
 
 ### Guest & Topic Input Screen
-![Input screen](Screenshots\Screenshot 2025-10-05 172919.png)
-![Input screen](Screenshots\Screenshot 2025-10-05 173108.png)
+![Input screen](<Screenshots\Screenshot 2025-10-05 172919.png>)
+![Input screen](<Screenshots\Screenshot 2025-10-05 173108.png>)
 
 
 ### Generated Podcast Plan
-![Generated podcast plan](Screenshots\Screenshot 2026-09-10 142214.png)
-![Generated podcast plan](Screenshots\Screenshot 2025-10-05 172944.png)
+![Generated podcast plan](<Screenshots\Screenshot 2026-09-10 142214.png>)
+![Generated podcast plan](<Screenshots\Screenshot 2025-10-05 172944.png>)
 
 
 
 ### PDF Export
-![PDF export](Screenshots\Screenshot 2025-10-05 173002.png)
+![PDF export](<Screenshots\Screenshot 2025-10-05 173002.png>)
 
 ---
 ---
