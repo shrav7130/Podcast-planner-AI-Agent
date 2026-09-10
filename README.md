@@ -356,18 +356,18 @@ Since the history is stored locally, it is specific to the browser/device being 
 
 
 ### Guest & Topic Input Screen
-![Input screen](Screenshots\p1.png)
-![Input screen](Screenshots\p4.png)
+![Input screen](Screenshots/p1.png)
+![Input screen](Screenshots/p4.png)
 
 
 ### Generated Podcast Plan
-![Generated podcast plan](Screenshots\p5.png)
-![Generated podcast plan](Screenshots\p3.png)
+![Generated podcast plan](Screenshots/p5.png)
+![Generated podcast plan](Screenshots/p3.png)
 
 
 
 ### PDF Export
-![PDF export](Screenshots\p2.png)
+![PDF export](Screenshots/p2.png)
 
 
 ## 🎓 Project Purpose
