@@ -6,25 +6,6 @@ The application uses an **OpenAI language model through LangChain** to generate 
 
 ---
 
-## 📸 Screenshots
-
-
-
-### Guest & Topic Input Screen
-![Input screen](D:\AI Agent\Screenshots\Screenshot 2025-10-05 172919.png)
-![Input screen](D:\AI Agent\Screenshots\Screenshot 2025-10-05 173108.png)
-
-
-### Generated Podcast Plan
-![Generated podcast plan](D:\AI Agent\Screenshots\Screenshot 2026-09-10 142214.png)
-![Generated podcast plan](D:\AI Agent\Screenshots\Screenshot 2025-10-05 172944.png)
-
-
-
-### PDF Export
-![PDF export](D:\AI Agent\Screenshots\Screenshot 2025-10-05 173002.png)
-
----
 
 ## ✨ Features
 
@@ -371,39 +352,31 @@ Since the history is stored locally, it is specific to the browser/device being 
 
 ---
 
-## 🔐 Security Note
-
-This project uses the OpenAI API, so an API key is required.
-
-**Never commit your API key to GitHub.**
-
-Avoid uploading code containing:
-
-```python
-api_key="sk-..."
-```
 
 A safer approach is to store the key in an environment variable.
 
 Also consider adding sensitive files such as `.env` and `venv/` to `.gitignore`.
 
 ---
+## 📸 Screenshots
 
-## 🔮 Future Improvements
 
-Possible future enhancements include:
 
-- 🌐 Web search for real-time guest information
-- 💾 Database-based history
-- 👥 User accounts and authentication
-- ✏️ Edit generated podcast plans
-- 🎨 Multiple podcast planning templates
-- 🎧 Episode script generation
-- 📊 Podcast analytics integration
-- ☁️ Cloud deployment
-- 📤 Export to additional formats
-- 🔄 Regenerate individual sections instead of the entire plan
+### Guest & Topic Input Screen
+![Input screen](Screenshots\Screenshot 2025-10-05 172919.png)
+![Input screen](Screenshots\Screenshot 2025-10-05 173108.png)
 
+
+### Generated Podcast Plan
+![Generated podcast plan](Screenshots\Screenshot 2026-09-10 142214.png)
+![Generated podcast plan](Screenshots\Screenshot 2025-10-05 172944.png)
+
+
+
+### PDF Export
+![PDF export](Screenshots\Screenshot 2025-10-05 173002.png)
+
+---
 ---
 
 ## 🎓 Project Purpose
